@@ -6,11 +6,20 @@
 /*   By: amorilla <amorilla@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/14 20:23:39 by amorilla          #+#    #+#             */
-/*   Updated: 2023/04/14 20:27:56 by amorilla         ###   ########.fr       */
+/*   Updated: 2023/04/14 20:39:41 by amorilla         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "philo.h"
+
+
+
+
+
 int main(void)
 {
+	t_data data;
+	
+	
 	return (0);
 }
